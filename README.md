@@ -20,7 +20,7 @@ The following tools were used in this project:
 - [Dart](https://dart.dev/)
 - [Vs Code](https://code.visualstudio.com/)
 - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAyJOBBhDCARIsAJG2h5eL8TqlTcYWCGcBIPw1fvDCI8-HFaYlvzdfH8GUd_-j9kX9SbFTTJkaAo3MEALw_wcB&gclsrc=aw.ds)
-- SQL Server
+- [SQL Server](https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads)
 
 ## All Pages
 <img src="/git.png">
