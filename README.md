@@ -10,4 +10,7 @@
   Play Store        
 :-------------------------:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/512px-Google_Play_Store_badge_EN.svg.png" width="350" >](https://play.google.com/store/apps/details?id=com.keremduman.birthday)
+
+## All Pages
+<img src="/image.png">
   
